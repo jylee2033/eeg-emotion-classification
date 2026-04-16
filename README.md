@@ -7,9 +7,8 @@
 - Abrar Rahman @abr-rhmn
 
 ## Important Links
-
-| [Timesheet](https://1sfu-my.sharepoint.com/:x:/g/personal/hamarneh_sfu_ca/ETNOAUV8d3pLla21L8OfzlkBIbjm6ZrE9dPXMvCE2adCcQ) | [Slack channel](https://cmpt340fall2025.slack.com/archives/C09F0NR7QHZ) | [Project report](https://www.overleaf.com/9314115499gkgmhkrgjdzm#801001) |
-|-----------|---------------|-------------------------|
+| [Project report](https://www.overleaf.com/9314115499gkgmhkrgjdzm#801001) |
+|-----------|
 
 ## Video/demo/GIF
 https://youtu.be/qVf95Jlxs44 
